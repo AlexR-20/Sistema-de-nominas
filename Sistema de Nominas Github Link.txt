@@ -1,0 +1,6 @@
+Integrantes:
+Jafet Imbert 18-2461
+Alexander Rodriguez 20-0321
+Perla Hernandez 20-0462
+
+Github Link: https://github.com/AlexR-20/Sistema-de-nominas.git
